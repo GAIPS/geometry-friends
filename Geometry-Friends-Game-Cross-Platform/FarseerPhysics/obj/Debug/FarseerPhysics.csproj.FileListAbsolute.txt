@@ -1,0 +1,5 @@
+C:\Users\Ines Lobo\Documents\Geometry-Friends-Game-Cross-Platform\FarseerPhysics\bin\Debug\FarseerPhysics.dll
+C:\Users\Ines Lobo\Documents\Geometry-Friends-Game-Cross-Platform\FarseerPhysics\bin\Debug\FarseerPhysics.pdb
+C:\Users\Ines Lobo\Documents\Geometry-Friends-Game-Cross-Platform\FarseerPhysics\obj\Debug\FarseerPhysics.csproj.CoreCompileInputs.cache
+C:\Users\Ines Lobo\Documents\Geometry-Friends-Game-Cross-Platform\FarseerPhysics\obj\Debug\FarseerPhysics.dll
+C:\Users\Ines Lobo\Documents\Geometry-Friends-Game-Cross-Platform\FarseerPhysics\obj\Debug\FarseerPhysics.pdb

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Levels>
+  <Level1>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="168" Y="696" />
+    <SquareStartingPosition X="1176" Y="360" />
+    <Collectibles>
+      <Collectible X="248" Y="120" />
+      <Collectible X="1048" Y="120" />
+      <Collectible X="680" Y="120" />
+    </Collectibles>
+    <GreenObstacles>
+      <Obstacle width="1232" height="48" X="24" Y="504" centered="false" />
+    </GreenObstacles>
+    <BlackObstacles />
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <TimeLimit value="120" />
+  </Level1>
+  <Level2>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="440" Y="680" />
+    <SquareStartingPosition X="824" Y="664" />
+    <Collectibles>
+      <Collectible X="88" Y="296" />
+      <Collectible X="1176" Y="328" />
+      <Collectible X="648" Y="280" />
+    </Collectibles>
+    <GreenObstacles />
+    <BlackObstacles>
+      <Obstacle width="336" height="384" X="40" Y="392" centered="false" />
+      <Obstacle width="304" height="368" X="936" Y="392" centered="false" />
+      <Obstacle width="48" height="336" X="504" Y="24" centered="false" />
+      <Obstacle width="48" height="320" X="744" Y="40" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <TimeLimit value="120" />
+  </Level2>
+  <Level3>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="88" Y="152" />
+    <SquareStartingPosition X="1160" Y="152" />
+    <Collectibles>
+      <Collectible X="88" Y="296" />
+      <Collectible X="1160" Y="312" />
+      <Collectible X="648" Y="216" />
+    </Collectibles>
+    <GreenObstacles />
+    <BlackObstacles>
+      <Obstacle width="176" height="48" X="40" Y="200" centered="false" />
+      <Obstacle width="160" height="48" X="1080" Y="216" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <TimeLimit value="120" />
+  </Level3>
+</Levels>
