@@ -306,8 +306,7 @@ namespace GeometryFriends.Levels.Shared
             Vector2 aux = new Vector2(1, 0);
             Vector2 rectangleLeftEdge = geom.GetRectangleCorner(1) - geom.GetRectangleCorner(2);
 
-            double angle = Math.Atan2(aux.Y - rectangleLeftEdge.Y, aux.X - rectangleLeftEdge.X);
-            
+            double angle = Math.Atan2(Math.Abs(aux.Y - rectangleLeftEdge.Y), Math.Abs(aux.X - rectangleLeftEdge.X));
             //when checking here should always have the correct vertex orientation
             if (Math.Abs(angle) < straightErrorAngle)
                 return true;
